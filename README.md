@@ -13,7 +13,7 @@
 3) Connect to "eduroam"
    - Authentication: `Protected EAP (PEAP)`
    - Anonymous identity: `anonymous@dtu.dk`
-   - Domain: `eduroam.dtu.dk`
+   - Domain: `win.dtu.dk` (or `eduroam.dtu.dk`?)
    - CA certificate: `eduroam-dtu.pem`
    - Inner auth: `MSCHAPV2`
 
